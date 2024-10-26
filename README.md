@@ -1,4 +1,5 @@
 # Bank-Loan-Variance-Analysis
+# Project availabale on: https://public.tableau.com/app/profile/yashvardhan.singh2209/viz/BankLoanDashboard_17293585842770/SUMMARY
 Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
 Banks collect loan data through various channels and processes, including:
 # Loan Applications: 
